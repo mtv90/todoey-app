@@ -1,0 +1,16 @@
+{
+  "name": "todoey",
+  "version": "1.0.0",
+  "description": "A simple todo app written in Flutter. A small exercise..",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["todo list"],
+  "author": "Maik Tran",
+  "license": "ISC"
+}
